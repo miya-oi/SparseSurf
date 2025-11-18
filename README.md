@@ -1,6 +1,6 @@
 <p align="center">
 
-<h1 align="center">SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction</h1>
+<h2 align="center">SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction</h2>
   <p align="center">
     <a href="https://scholar.google.com/citations?user=9WT89kAAAAAJ&hl=zh-CN" target="_blank">Meiying Gu</a>
     ·
