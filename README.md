@@ -19,13 +19,16 @@
 
 <h2 align="center">AAAI 2026</h2>
 
+<h3 align="center"><a href="https://miya-oi.github.io/SparseSurf-project/" target="_blank">Project Page</a>  </h3>
+  <div align="center"></div>
+</p> 
 <!-- <h3 align="center"><a href="https://arxiv.org/pdf/2509.18090" target="_blank">Paper</a> | <a href="https://arxiv.org/abs/2509.18090" target="_blank">arXiv</a> | <a href="https://fictionarry.github.io/GeoSVR-project/" target="_blank">Project Page</a>  </h3>
   <div align="center"></div>
 </p> -->
 
 <p align="center">
   <a href="">
-    <img src="./asset/teaser.jpg" alt="teaser" width="95%">
+    <img src="./asset/method.jpg" alt="method" width="95%">
   </a>
 </p>
 
