@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="">
-    <img src="./asset/method.jpg" alt="method" width="95%">
+    <img src="./assets/method.jpg" alt="method" width="95%">
   </a>
 </p>
 
