@@ -29,7 +29,7 @@
 ## Overview
 <div align="center"><img src="/assets/method.png"  alt="method" width=95%></div>
 
-we propose SparseSurf, a method that reconstructs more accurate and detailed surfaces while preserving high-quality novel view rendering.</p>
+We propose SparseSurf, a method that reconstructs more accurate and detailed surfaces while preserving high-quality novel view rendering.</p>
 Overview of our framework. (a) Stereo Geometry-Texture Alignment. We estimate and update stereo-view images to generate binocular priors for geometry supervision. (b) Pseudo-Feature Enhanced Geometry Consistency. To mitigate overfitting and enhance multi-view consistency, we introduce Pseudo-view Feature Consistency and Train-view Feature Alignment.</p>
 <br>
 
