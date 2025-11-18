@@ -17,9 +17,9 @@
     <a href="https://scholar.google.com/citations?user=k6l1vZIAAAAJ&hl=en" target="_blank">Xiao Bai</a>
   </p>
 
-<h2 align="center">AAAI 2026</h2>
+<h3 align="center">AAAI 2026</h3>
 
-<h3 align="center"><a href="https://miya-oi.github.io/SparseSurf-project/" target="_blank">Project Page</a>  </h3>
+<h4 align="center"><a href="https://miya-oi.github.io/SparseSurf-project/" target="_blank">Project Page</a>  </h4>
   <div align="center"></div>
 </p> 
 <!-- <h3 align="center"><a href="https://arxiv.org/pdf/2509.18090" target="_blank">Paper</a> | <a href="https://arxiv.org/abs/2509.18090" target="_blank">arXiv</a> | <a href="https://fictionarry.github.io/GeoSVR-project/" target="_blank">Project Page</a>  </h3>
