@@ -1,0 +1,42 @@
+name: sparsesurf
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - pytorch=2.4.1
+  - torchvision=0.19.1
+  - pytorch-cuda=11.8
+  - numpy
+  - scipy
+  - cmake
+  - ninja
+  - pillow
+  - opencv
+  - imageio
+  - scikit-image
+  - scikit-learn
+  - matplotlib
+  - tqdm
+  - plyfile
+  - pandas
+  - pyyaml
+  - setuptools
+  - wheel
+  - pip:
+      - omegaconf
+      - open3d
+      - trimesh
+      - GPUtil
+      - huggingface_hub
+      - einops
+      - transformations
+      - timm
+      - tensorboard
+      - pyrender
+      - torchmetrics
+      - -e submodules/simple-knn
+      - -e submodules/diff-plane-rasterization
